@@ -1,0 +1,11 @@
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 20em;
+  font-family: Arial;
+  text-align: center;
+}
+th {
+  padding-left: 1em;
+  padding-right: 1em;
+}
